@@ -2,7 +2,7 @@
 - 👀 I’m interested in e-gaming,music,discovering and programming...
 - 🌱 I’m currently learning electronic,C++, React and...
 - 💞️ I’m looking to collaborate on fun projects open source.
-- 📫 How to reach me andre.kenmogne@2026.ucac-icam.com :)
+- 📫 How to reach me thekyan@hi2.in :)
 <a href="https://app.daily.dev/kyan">
 <img src="https://github.com/Ken-Andre/Ken-Andre/blob/main/devcard.svg" width="400" alt="Ken-Andre Dev Card"/>
 </a>
