@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on fun projects open source.
 - 📫 How to reach me thekyan@hi2.in :)
 <a href="https://app.daily.dev/kyan">
-<img src="https://github.com/Ken-Andre/Ken-Andre/blob/main/devcard.svg" width="400" alt="Ken-Andre Dev Card"/>
+<img src="./devcard.png" width="356" alt="Ken-Andre Dev Card"/>
 </a>
 <!---
 Ken-Andre/Ken-Andre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
