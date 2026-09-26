@@ -20,6 +20,18 @@ I am a final-year software engineering student with a Data/AI orientation, curre
 - MICMARKET API: Node/Express marketplace API with authentication, roles, products, orders, Cloudinary uploads, and Swagger documentation.
 - Human-Centered AR Defect Detection: applied AI prototype combining computer vision, IoT-style sensor streams, voice interaction, and maintenance support.
 
+## Motion Design Showreel
+
+Beyond data & AI engineering, I design and code motion graphics — a procedural 15-second showreel
+(custom numpy/OpenCV compositor, variable-font kinetic type, particle simulation, synthesised score),
+generated entirely by code, no keyframe software.
+
+<video src="https://ken-andre.github.io/myshowreel/videos/showreel_1080p60.mp4" controls preload="metadata" width="100%"></video>
+
+<video src="https://ken-andre.github.io/myshowreel/videos/showreel_vertical_1080x1920.mp4" controls preload="metadata" height="420"></video>
+
+Source, scene-by-scene breakdown and the 9:16 cut: [github.com/Ken-Andre/myshowreel](https://github.com/Ken-Andre/myshowreel)
+
 ## What I Am Looking For
 
 International junior opportunities in Data Engineering, Analytics Engineering, Applied AI Engineering, AI/KYC/AML systems, or technical data consulting. Priority regions: France, Germany, Canada, Luxembourg, UAE, Singapore, and Switzerland when sponsorship and junior fit are realistic.
