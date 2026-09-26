@@ -26,9 +26,9 @@ Beyond data & AI engineering, I design and code motion graphics — a procedural
 (custom numpy/OpenCV compositor, variable-font kinetic type, particle simulation, synthesised score),
 generated entirely by code, no keyframe software.
 
-<video src="https://ken-andre.github.io/myshowreel/videos/showreel_1080p60.mp4" controls preload="metadata" width="100%"></video>
+[![Showreel preview — click to watch with sound](https://ken-andre.github.io/myshowreel/docs/preview.gif)](https://ken-andre.github.io/myshowreel/)
 
-<video src="https://ken-andre.github.io/myshowreel/videos/showreel_vertical_1080x1920.mp4" controls preload="metadata" height="420"></video>
+**[▶ Watch the full reel with sound →](https://ken-andre.github.io/myshowreel/)** — plays in your browser, 1080p60 + a 9:16 cut.
 
 Source, scene-by-scene breakdown and the 9:16 cut: [github.com/Ken-Andre/myshowreel](https://github.com/Ken-Andre/myshowreel)
 
